@@ -1,0 +1,8 @@
+# dsh-ui-repair bundle patch: one row, no configuration.
+#
+# This plugin has no host behaviour — it only injects a stylesheet on the client
+# half. The patch row exists so the Loader mounts the client bundle.
+
+- insert:
+    - id: dsh-ui-repair
+      name: dsh-ui-repair
