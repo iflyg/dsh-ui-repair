@@ -1,6 +1,6 @@
 {
   "name": "dsh-ui-repair",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Windows 标题栏让位补丁：实测并推开会压到窗口控制按钮的会话标签行与全屏浮层，补上缺失的标题栏标记。不改任何第三方插件源码。",
   "type": "module",
   "main": "lib/index.js",
@@ -17,6 +17,14 @@
     "titlebar"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iflyg/dsh-ui-repair.git"
+  },
+  "homepage": "https://github.com/iflyg/dsh-ui-repair#readme",
+  "bugs": {
+    "url": "https://github.com/iflyg/dsh-ui-repair/issues"
+  },
   "engines": {
     "node": "^22.19.0 || >=24.0.0"
   },

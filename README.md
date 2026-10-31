@@ -46,4 +46,4 @@ DSH 在 Windows 上自绘标题栏（Electron `titleBarOverlay`）：最小化 /
 
 ## 版本历史
 
-当前 **v0.2.0**。版本变化见 [CHANGELOG.md](CHANGELOG.md)；仓库按 `vX.Y.Z` 打了标签。
+当前 **v0.2.1**。版本变化见 [CHANGELOG.md](CHANGELOG.md)；仓库按 `vX.Y.Z` 打了标签。
