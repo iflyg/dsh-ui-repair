@@ -43,3 +43,7 @@ DSH 在 Windows 上自绘标题栏（Electron `titleBarOverlay`）：最小化 /
 - 不改第三方插件代码，不改宿主文件。
 - 不注册路由、命令、工具，host 侧是空的。
 - 不做主题、不做布局改造，只处理「窗口按钮压住页面」这一件事。
+
+## 版本历史
+
+当前 **v0.2.0**。版本变化见 [CHANGELOG.md](CHANGELOG.md)；仓库按 `vX.Y.Z` 打了标签。
